@@ -40,6 +40,11 @@ p{
   border-radius: 100%;
   width: 500px;
   height: 300px;
+  transition: transform .5s;
+}
+
+.image-mug:hover{
+  transform: scale(1.2);
 }
 
 #features{
