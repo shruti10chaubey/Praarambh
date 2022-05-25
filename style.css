@@ -1,0 +1,94 @@
+h1{
+  padding-bottom: 3%;
+  font-size: 3.5rem;
+}
+
+h2{
+  font-family: 'Lora', serif;
+  font-size: 2rem;
+  padding-bottom: 5%;
+}
+
+hr{
+  color: #1C0A00
+}
+
+p{
+  padding: 5%;
+}
+
+
+#title{
+  background-color: #FFFBE9;
+  padding: 2% 7%;
+}
+
+.navbar{
+  padding-bottom: 7%;
+}
+
+.navbar-brand{
+  font-family: 'Great Vibes', cursive;
+  font-size: 3.5rem;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.image-mug{
+  border-radius: 100%;
+  width: 500px;
+  height: 300px;
+}
+
+#features{
+  padding: 7%;
+  text-align: center;
+  line-height: 1.5;
+}
+
+#shop{
+  padding: 5%;
+  text-align: center;
+  line-height: 1.5;
+
+}
+
+.product{
+  width: 60%;
+}
+
+
+#testimonials{
+  background-color: #361500;
+  color: white;
+  text-align: center;
+  padding: 5% 7%;
+}
+
+#cta{
+  padding: 3%;
+  text-align: center;
+}
+
+.d1{
+  padding: 2%;
+}
+
+.b1{
+  background-color: #FFFBE9;
+}
+
+#footer{
+  text-align: center;
+}
+
+.fa-2x{
+  padding-bottom: 5px;
+}
+
+.b2{
+  background-color: #361500;
+  color: white;
+}
